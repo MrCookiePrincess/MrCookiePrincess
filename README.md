@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MrCookiePrincess
 - 👀 I’m interested in ... Minecraft
-- 🌱 I’m currently learning ... Magic
 - 💞️ I’m looking to collaborate on ... Minecraft plugins or mods
 - 📫 How to reach me ... Discord: MrCookiePrincess
 
